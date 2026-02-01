@@ -4,7 +4,7 @@
 📍 Mexico | 🌍 Open to Remote & Global Opportunities  
 
 
-## 🎲 About Me 
+## About Me 
 
 I am a **Systems Engineer** with experience in **data analysis for the United Nations** 🇺🇳 💻<!-- , specifically with the **International Organization for Migration (IOM)**, where I worked on data-driven projects supporting humanitarian operations, migration analysis, and decision-support systems.
 -->
@@ -31,7 +31,6 @@ I am a **Systems Engineer** with experience in **data analysis for the United Na
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 
 ### ☁️ Cloud & DevOps
@@ -46,6 +45,7 @@ I am a **Systems Engineer** with experience in **data analysis for the United Na
 ![Risk](https://img.shields.io/badge/Risk%20Modeling-FF5722)
 ![Pipelines](https://img.shields.io/badge/Data%20Pipelines-673AB7)
 ![Systems](https://img.shields.io/badge/Distributed%20Systems-009688)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 
 ## 📜 Certifications
