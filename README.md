@@ -4,9 +4,9 @@
 📍 Mexico | 🌍 Open to Remote & Global Opportunities  
 
 
-## About Me
+## 🎲 About Me 
 
-I am a **Systems Engineer** with experience in **data analysis for the United Nations** <!-- , specifically with the **International Organization for Migration (IOM)**, where I worked on data-driven projects supporting humanitarian operations, migration analysis, and decision-support systems.
+I am a **Systems Engineer** with experience in **data analysis for the United Nations** 🇺🇳 💻<!-- , specifically with the **International Organization for Migration (IOM)**, where I worked on data-driven projects supporting humanitarian operations, migration analysis, and decision-support systems.
 -->
 
  🔭 Currently, I am transitioning into the **cloud and infrastructure domain**, building strong foundations to specialize as a **Cloud Engineer / DevOps Engineer**, with a focus on **scalable systems, automation, and cloud-native architectures**.
