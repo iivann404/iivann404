@@ -1,6 +1,6 @@
 ## 你好, I'm Ivan
 
-🚀 **Cloud & Data-Oriented Engineer | Risk Analysis | Emerging Cloud Specialist**  
+🚀 **Cloud & Data-Oriented Engineer | Emerging Cloud Specialist**  
 📍 Mexico | 🌍 Open to Remote & Global Opportunities  
 
 
