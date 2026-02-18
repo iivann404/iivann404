@@ -9,22 +9,21 @@
 I am a **Systems Engineer** with experience in **data analysis for the United Nations** 🇺🇳 💻<!-- , specifically with the **International Organization for Migration (IOM)**, where I worked on data-driven projects supporting humanitarian operations, migration analysis, and decision-support systems.
 -->
 
-🔭 Currently, I am transitioning into the **cloud and infrastructure domain**, building strong foundations to specialize as a **Cloud Engineer / DevOps Engineer**, with a focus on **scalable systems, automation, and cloud-native architectures**.
+Currently, I am transitioning into the **cloud and infrastructure domain**, building strong foundations to specialize as a **Cloud Engineer / Cybersecurity Engineer**, with a focus on **Cybersecurity systems, and cloud-native architectures**.
 
 
-## 🌍 Interests
+## Interests
 
-☁️ Cloud computing  
-📊 Data-driven systems  
-⚙️ Infrastructure automation  
-🏗️ Scalable architectures  
-🤖 Intelligent systems  
-🌐 Global tech ecosystems  
+Cloud computing  
+Data-driven systems  
+Cybersecurity    
+Intelligent systems  
+Global tech ecosystems  
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 💻 Programming & Development
+### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -40,7 +39,7 @@ I am a **Systems Engineer** with experience in **data analysis for the United Na
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### 🗄️ Data & Systems
+### Data & Systems
 ![Data](https://img.shields.io/badge/Data%20Analysis-4CAF50)
 ![Risk](https://img.shields.io/badge/Risk%20Modeling-FF5722)
 ![Pipelines](https://img.shields.io/badge/Data%20Pipelines-673AB7)
@@ -48,13 +47,13 @@ I am a **Systems Engineer** with experience in **data analysis for the United Na
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 
-## 📜 Certifications
+## Certifications
 
 ![AWS CCP](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
 
-📚 Currently training for **Cloud specialization (Cloud Engineering / DevOps path)**
+ Currently training for **Cloud specialization (Cloud Engineering / DevOps path)**
 
-## 🔍 What I Bring
+## What I Bring
 
 ✅ Strong analytical background  
 ✅ Engineering mindset  
@@ -65,7 +64,7 @@ I am a **Systems Engineer** with experience in **data analysis for the United Na
 ✅ International project exposure (United Nations / IOM)  
 ✅ Continuous learner mindset  
 
-## 🌱 Currently Learning
+## Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-795548)
@@ -74,13 +73,13 @@ I am a **Systems Engineer** with experience in **data analysis for the United Na
 ![Distributed](https://img.shields.io/badge/Distributed%20Systems-3F51B5)
 
 
-## 🤝 Open To Opportunities
+## Open To Opportunities
 
-🌍 Remote roles  
-🧑‍💻 Cloud / DevOps / Data roles  
-🏗️ Infrastructure projects  
-📊 Data-driven engineering roles  
-🚀 Startups and global tech companies  
+ Remote roles  
+ Cloud / DevOps / Cybersecurity roles  
+ Infrastructure projects  
+ Data-driven engineering roles  
+ Startups and global tech companies  
 <!-- 
 ## 📫 Contact
 
