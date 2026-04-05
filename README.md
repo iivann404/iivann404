@@ -49,7 +49,8 @@ Global tech ecosystems
 
 ## Certifications
 
-![AWS CCP](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-FF9900?logo=amazonaws&logoColor=white)
+
 
  Currently training for **Cloud specialization (Cloud Engineering / DevOps path)**
 
