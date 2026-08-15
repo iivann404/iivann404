@@ -1,4 +1,4 @@
-## 你好, I'm Ivan
+## 你好
 
 🚀 **Cloud & Data-Oriented Engineer | Emerging Cloud Specialist**  
 📍 Mexico | 🌍 Open to Remote & Global Opportunities  
